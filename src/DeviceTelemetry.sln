@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceTelemetry.Producer", "DeviceTelemetry.Producer\DeviceTelemetry.Producer.csproj", "{5C5744A3-3B8A-4E5C-A46D-09825FF15147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceTelemetry.Infrastructure", "DeviceTelemetry.Infrastructure\DeviceTelemetry.Infrastructure.csproj", "{2CFD9914-A7E8-4145-89C0-960C096B84EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceTelemetry.Domain", "DeviceTelemetry.Domain\DeviceTelemetry.Domain.csproj", "{AF3D299F-583F-41DF-88AD-D5C5392C3D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C5744A3-3B8A-4E5C-A46D-09825FF15147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5744A3-3B8A-4E5C-A46D-09825FF15147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5744A3-3B8A-4E5C-A46D-09825FF15147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5744A3-3B8A-4E5C-A46D-09825FF15147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFD9914-A7E8-4145-89C0-960C096B84EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFD9914-A7E8-4145-89C0-960C096B84EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFD9914-A7E8-4145-89C0-960C096B84EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFD9914-A7E8-4145-89C0-960C096B84EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3D299F-583F-41DF-88AD-D5C5392C3D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3D299F-583F-41DF-88AD-D5C5392C3D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3D299F-583F-41DF-88AD-D5C5392C3D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3D299F-583F-41DF-88AD-D5C5392C3D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
